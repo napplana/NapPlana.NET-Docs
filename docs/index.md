@@ -12,7 +12,7 @@ hero:
       link: /quick-start/introduction
     - theme: alt
       text: API文档
-      link: /api-docs
+      link: "https://napplana.net"
   image:
     src: /logo.png
     alt: 普拉那可爱喵
